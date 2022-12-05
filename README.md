@@ -28,12 +28,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
  <img src="https://camo.githubusercontent.com/34430ca7915b4f95fe0716bf3eb9c4eceabb8b31f6149978c38ef50fb92b0519/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c75653f6c6f676f3d63737333" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS-blue?logo=css3" style="max-width: 100%;">
  <a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahndjru&repo=github-readme-stats" />
-</a>
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://camo.githubusercontent.com/1a3999759bea2e4a3f18d775dfb16ad3677aa838bf7ca3b11ad163099eacec8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d79656c6c6f773f6c6f676f3d6a617661736372697074" alt="Javascript" data-canonical-src="https://img.shields.io/badge/Javascript-yellow?logo=javascript" style="max-width: 100%;"></a>
  
