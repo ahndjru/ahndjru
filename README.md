@@ -1,7 +1,9 @@
 ### Hello fellow peeps, I'm Andrew 👋
 
-
+<p align="center">
  <h4>💬 Connect with me:</h4> 
+ </p>
+ 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" style="max-width: 100%"></img>
 
 ![](https://github.com/ahndjru/ahndjru/blob/main/images/typingtyping.gif)
