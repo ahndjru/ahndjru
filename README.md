@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello fellow peeps, I'm Andrew 👋
+
+
+About ME 💬: 
+
+- I'm a 20 year old full-stack developer in the US.
+
+- Currently Using:
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndjru)](https://github.com/anuraghazra/github-readme-stats)
 
