@@ -106,6 +106,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndjru)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><b>thank you for checking out my profile!</b></p>
+
 
 
 <!--
