@@ -25,6 +25,8 @@
 
 <h1 align="center">Knowledge:</h1>
 
+<p center="align"><b>At the moment I really enjoy doing front-end using React but am open to build in the following skills I know c:</b></p>
+
 <p align="center">
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
