@@ -49,6 +49,31 @@
 </p>
 
 
+<p align="center" dir="auto">
+ 
+ <a href="https://www.json.org/json-en.html" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/d33afeab62dd6132c6f683f4fbcbeed59978aed95e6eedfb27dffdbad16550a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a736f6e2d677261793f6c6f676f3d6a736f6e" alt="Json" data-canonical-src="https://img.shields.io/badge/-Json-gray?logo=json" style="max-width: 100%;"></a>
+ 
+<a href="https://code.visualstudio.com/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/906e70ec5217c0bb55a24c486c07379cec7d95ad2ccfdbbe68a100ee333d4e41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c53747564696f2d626c61636b3f6c6f676f3d76697375616c73747564696f636f6465" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudiocode" style="max-width: 100%;"></a>
+ 
+<a href="https://img.shields.io/badge/-Jinja-red?logo=jinja%5D(https://jinja.palletsprojects.com/en/3.1.x/)" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/4f053af2870854b7320eab0bc0df9234dff5613bf16f6aacd97bd66e34c7b811/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a696e6a612d7265643f6c6f676f3d6a696e6a61" alt="Jinja" data-canonical-src="https://img.shields.io/badge/-Jinja-red?logo=jinja" style="max-width: 100%;"></a>
+ 
+<a href="https://docs.aws.amazon.com/ec2/index.html" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/d5c9aa332e2645b69a1a386bce13ed94b80d70609e3d5a57e0c46e80da8ed195/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4543322d626c61636b3f6c6f676f3d616d617a6f6e656332" alt="Amazon Ec2" data-canonical-src="https://img.shields.io/badge/-EC2-black?logo=amazonec2" style="max-width: 100%;"></a>
+ 
+<a href="https://httpd.apache.org/docs/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/889f382d804cb7801a0c63d519966893aca9b92783ce42bcc20727238cecc14a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4170616368652d7265643f6c6f676f3d617061636865" alt="Apache" data-canonical-src="https://img.shields.io/badge/-Apache-red?logo=apache" style="max-width: 100%;"></a>
+ 
+<a href="https://github.com/jsath">
+ <img src="https://camo.githubusercontent.com/0657c72accef7d91ee0f88cf41c34fec338385d8c9635996817a23a217e8cc9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f6c6f676f3d676974687562" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-black?logo=github" style="max-width: 100%;"></a>
+ 
+<a href="https://aws.amazon.com/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/cd93ba19a7ab867febbdc42317402cb85c2fb53507e1f103b3124bae9482eb13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d6f72616e67653f6c6f676f3d616d617a6f6e617773" alt="AWS" data-canonical-src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws" style="max-width: 100%;"></a>
+</p>
+
+
 <!--
 **ahndjru/ahndjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
