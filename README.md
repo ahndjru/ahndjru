@@ -7,7 +7,7 @@
 
 <p align="center"><b>Full stack developer passionate about all code and creativity. Always willing to learn new ways to improve. At all times, I am a student committed to learning, growing and building with new technology.</b></p>
 
-<p align="center">
+<p align="center" padding-top="20px">
 <img src="/images/typingtyping.gif" alt="gif"/>
  </p>
 
