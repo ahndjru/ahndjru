@@ -2,7 +2,7 @@
 
 
  💬 Connect with me: 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></img>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" style="max-width: 100%"></img>
 
 - 🌱 I’m currently learning <b>socket.io and going more deep into React</b>
 - 📫 How to reach me: vijandreandrew@yahoo.com
