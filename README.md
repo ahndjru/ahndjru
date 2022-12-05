@@ -1,7 +1,10 @@
 ### Hello fellow peeps, I'm Andrew 👋
 
 
-About ME 💬: 
+ 💬 Connect with me: 
+ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+ 
+https://www.linkedin.com/in/andrew-vijandre-0aa86622a/
 
 - I'm a 20 year old full-stack developer in the US.
 
