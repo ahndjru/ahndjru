@@ -30,10 +30,22 @@
  <a>
 </p>
 
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahndjru&repo=github-readme-stats" />
 </a>
+ 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://camo.githubusercontent.com/1a3999759bea2e4a3f18d775dfb16ad3677aa838bf7ca3b11ad163099eacec8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d79656c6c6f773f6c6f676f3d6a617661736372697074" alt="Javascript" data-canonical-src="https://img.shields.io/badge/Javascript-yellow?logo=javascript" style="max-width: 100%;"></a>
+ 
+ <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://camo.githubusercontent.com/859fd4fd3cc34a3e9811f6adef1e694fc85f654cfbc71e47c7f5852cf9c80e24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d626c61636b3f6c6f676f3d6e6f6465646f746a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-black?logo=nodedotjs" style="max-width: 100%;"></a>
+ 
+ <a href="https://jquery.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e29fc70aed7ad196e346c20faf0085d0e8cb08669190de7715c16967485343e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d626c75653f6c6f676f3d6a7175657279" alt="JQuery" data-canonical-src="https://img.shields.io/badge/jQuery-blue?logo=jquery" style="max-width: 100%;"></a>
+ 
+ <a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e4ca389f144a00503c61af316f68259df4d620c0996cc24bd6b50c3053202f7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d707572706c653f6c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" style="max-width: 100%;"></a>
+ 
+ <a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e4ca389f144a00503c61af316f68259df4d620c0996cc24bd6b50c3053202f7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d707572706c653f6c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" style="max-width: 100%;"></a>
+ 
+ </p>
 
 
 <!--
