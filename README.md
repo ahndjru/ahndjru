@@ -73,6 +73,31 @@
  <img src="https://camo.githubusercontent.com/cd93ba19a7ab867febbdc42317402cb85c2fb53507e1f103b3124bae9482eb13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d6f72616e67653f6c6f676f3d616d617a6f6e617773" alt="AWS" data-canonical-src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws" style="max-width: 100%;"></a>
 </p>
 
+<p align="center" dir="auto">
+ 
+ <a href="https://docs.oracle.com/en/java/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/77b43203409781ec8fa50d9e961fe87d7860c55a457442df01b7f272651030eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d726564" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-red" style="max-width: 100%;"></a>
+ 
+<a href="https://dev.mysql.com/doc/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/6dca2b75d57075278555487304de47ac261acf4c22b6fa45574431a185f5bdcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d677265793f6c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-grey?logo=mysql" style="max-width: 100%;"></a>
+ 
+<a href="https://docs.python.org/3/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/aa289b75e7a4705ad3fb5bc82c660eb1d6a2e4642e6e184dc3f61cb0468fa26c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6f72616e67653f6c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-orange?logo=python" style="max-width: 100%;"></a>
+ 
+<a href="https://www.prisma.io/express" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/015da64919d3e3a11445e08a547672cf99e1cad3e53177e883c68fc4bd3ad85a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d626c61636b3f6c6f676f3d65787072657373" alt="Express" data-canonical-src="https://img.shields.io/badge/-Express-black?logo=express" style="max-width: 100%;"></a>
+ 
+<a href="https://flask.palletsprojects.com/en/2.2.x/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/b724eb4aff58c074ed5e87f573e20287abe8bc98508d82c78617af58372f7336/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d7265643f6c6f676f3d666c61736b" alt="Flask" data-canonical-src="https://img.shields.io/badge/-Flask-red?logo=flask" style="max-width: 100%;"></a>
+ 
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/34eb066d3be363f81968572f0552089aaf06b3b7128b40cb4c529565dfc39b88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d677261793f6c6f676f3d737072696e67626f6f74" alt="SpringBoot" data-canonical-src="https://img.shields.io/badge/SpringBoot-gray?logo=springboot" style="max-width: 100%;"></a>
+ 
+<a href="https://maven.apache.org/" rel="nofollow">
+ <img src="https://camo.githubusercontent.com/631e6e82e01fe6311f99236702f5b7ff71002599513a33917721a2f8aa3a9704/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6176656e2d7265643f6c6f676f3d6170616368656d6176656e" alt="Maven" data-canonical-src="https://img.shields.io/badge/-Maven-red?logo=apachemaven" style="max-width: 100%;"></a>
+
+</p>
+
 
 <!--
 **ahndjru/ahndjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
