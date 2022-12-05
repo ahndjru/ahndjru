@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <b>socket.io and going more deep into React</b>
 - 📫 How to reach me: vijandreandrew@yahoo.com
-- ⚡ Fun fact:<b>I am a filthy riot games enjoyer</b>
+- ⚡ Fun fact:<b> I am a filthy riot games enjoyer</b>
 
 
 
