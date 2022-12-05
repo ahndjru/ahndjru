@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: vijandreandrew@yahoo.com
 
-- ⚡ Fun fact:<b> I am a filthy riot games enjoyer, also like watching anime and sports</b>
+- ⚡ Fun fact:<b> I am a filthy riot games enjoyer, also I like watching anime and sports</b>
 
 
 <h1 align="center">Languages and Tools:</h1>
