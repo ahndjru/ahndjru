@@ -10,7 +10,7 @@
 
 <p align="center"><b>Full stack developer passionate about all code and creativity. Always willing to learn new ways to improve. At all times, I am a student committed to learning, growing and building with new technology.</b></p>
 
-<p align="center" padding-top="20px">
+<p align="center">
 <img src="/images/typingtyping.gif" alt="gif"/>
  </p>
 
@@ -26,6 +26,10 @@
 <h1 align="center">Languages and Tools:</h1>
 
 <p align="center"><b>At the moment I really enjoy doing front-end using React but am open to build in the following skills I know c:</b></p>
+
+<p align="center">
+<img src="/images/killua.gif" alt="gif2"/>
+ </p>
 
 <p align="center">
  
