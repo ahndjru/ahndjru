@@ -1,7 +1,8 @@
-### Hello fellow peeps, I'm Andrew 👋
+
+
+<h1 align="center">Hello fellow peeps, I'm Andrew 👋</h1>
 
 <hr/>
-
 
  <h4 align="center">💬 Connect with me:</h4> 
  <p align="center">
