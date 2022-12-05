@@ -25,7 +25,7 @@
 
 <h1 align="center">Knowledge:</h1>
 
-<p center="align"><b align="center">At the moment I really enjoy doing front-end using React but am open to build in the following skills I know c:</b></p>
+<p align="center"><b>">At the moment I really enjoy doing front-end using React but am open to build in the following skills I know c:</b></p>
 
 <p align="center">
  
