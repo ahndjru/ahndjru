@@ -5,7 +5,7 @@
 
  <h4 align="center">💬 Connect with me:</h4> 
  <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" style="max-width: 100%"></img>
+<a href="https://www.linkedin.com/in/andrew-vijandre-0aa86622a/"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" style="max-width: 100%"></img></a>
 </p>
 
 <p align="center"><b>Full stack developer passionate about all code and creativity. Always willing to learn new ways to improve. At all times, I am a student committed to learning, growing and building with new technology.</b></p>
