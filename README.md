@@ -1,8 +1,8 @@
 ### Hello fellow peeps, I'm Andrew 👋
 
 
- 💬 Connect with me: 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-vijandre-0aa86622a "height="25" width="35" style="max-width: 100%"></img>
+ <h4>💬 Connect with me:</h4> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" style="max-width: 100%"></img>
 
 - 🌱 I’m currently learning <b>socket.io and going more deep into React</b>
 - 📫 How to reach me: vijandreandrew@yahoo.com
