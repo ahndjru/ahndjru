@@ -7,13 +7,15 @@
 
 <p align="center"><b>Full stack developer passionate about all code and creativity. Always willing to learn new ways to improve. At all times, I am a student committed to learning, growing and building with new technology.</b></p>
 
+<p align="center">
 ![](https://github.com/ahndjru/ahndjru/blob/main/images/typingtyping.gif)
+ </p>
 
-<ul align="center">
+
 - 🌱 I’m currently learning <b>socket.io and going more deep into React</b>
 - 📫 How to reach me: vijandreandrew@yahoo.com
 - ⚡ Fun fact:<b> I am a filthy riot games enjoyer</b>
-</ul>
+
 
 
 
