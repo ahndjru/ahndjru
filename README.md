@@ -23,7 +23,7 @@
 - ⚡ Fun fact:<b> I am a filthy riot games enjoyer</b>
 
 
-<h1 align="center">Knowledge:</h1>
+<h1 align="center">Languages and Tools:</h1>
 
 <p align="center"><b>At the moment I really enjoy doing front-end using React but am open to build in the following skills I know c:</b></p>
 
