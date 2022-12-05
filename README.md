@@ -33,6 +33,9 @@
 
 <p align="center">
  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/3923a30708b46bf54536fce3144f34018f32d2d2baf9686d77b68af0e66d1039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6f72616e67653f6c6f676f3d48544d4c35" alt="HTML/JSP" data-canonical-src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" style="max-width: 100%;"></a>
+ 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
  <img src="https://camo.githubusercontent.com/34430ca7915b4f95fe0716bf3eb9c4eceabb8b31f6149978c38ef50fb92b0519/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c75653f6c6f676f3d63737333" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS-blue?logo=css3" style="max-width: 100%;">
  </a>
