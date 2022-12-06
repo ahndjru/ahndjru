@@ -106,9 +106,8 @@
  <img src="https://camo.githubusercontent.com/631e6e82e01fe6311f99236702f5b7ff71002599513a33917721a2f8aa3a9704/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6176656e2d7265643f6c6f676f3d6170616368656d6176656e" alt="Maven" data-canonical-src="https://img.shields.io/badge/-Maven-red?logo=apachemaven" style="max-width: 100%;"></a>
 
 </p>
-<div align=:"center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndjru)](https://github.com/anuraghazra/github-readme-stats)
- </div>
 
 <p align="center"><b>thank you for checking out my profile!</b></p>
 
