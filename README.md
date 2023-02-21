@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning <b>socket.io and going more deep into React</b>
+- 🌱 I’m currently learning <b>usage of stripe api and going more deep into React</b>
 
 - 📫 How to reach me: vijandreandrew@yahoo.com
 
